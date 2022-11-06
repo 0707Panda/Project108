@@ -1,0 +1,33 @@
+body{
+    font-family: 'Comic Neue', cursive;
+    background-color: rgb(158, 210, 228);
+}
+
+#title{
+    background-color: bisque;
+    text-color: blue;
+}
+
+.header_div p{
+    font-weight:bold;
+    letter-spacing: 2px;
+    font-size: medium;
+}
+
+.main_div{
+    font-family: fantasy;
+    margin-top: 2px;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    font-size:18px;
+    background-color:bisque;
+    line-height:3;
+    text-align: center;
+    text-shadow: 2px 2px 2px gray;
+    letter-spacing: 2px;
+}
